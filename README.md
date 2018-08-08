@@ -3,8 +3,6 @@ Tabs
 
 As Tabs facilitam a navegação e alternância entre diferentes visualizações.
 
-***Esse projeto faz parte do Curso Completo de Android Material Design ([https://www.udemy.com/curso-android-material-design/](https://www.udemy.com/curso-android-material-design/?couponCode=ANDROIDPRO))***
-
 
 Pré-requisitos
 --------------
